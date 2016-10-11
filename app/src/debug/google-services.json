@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1034203526969",
+    "firebase_url": "https://copmobiledesafio01extendido.firebaseio.com",
+    "project_id": "copmobiledesafio01extendido",
+    "storage_bucket": "copmobiledesafio01extendido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034203526969:android:801428d5a8893d88",
+        "android_client_info": {
+          "package_name": "br.com.gushiman.copmobiledesafio01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034203526969-c7j31kdoqh52bbkohos2h5g5oelv3lie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tNCmw_5n5oo44N-dTDIuEwPY0Mtfpqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
