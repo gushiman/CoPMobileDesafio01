@@ -186,6 +186,12 @@ public class PersistirColaboradorActivity extends AppCompatActivity {
         ticadoAndroidModuloBasico.setChecked(false);
         ticadoModuloAvancado.setChecked(false);
         ticadoUx.setChecked(false);
+        conhecimentoMobile = "não informado";
+        conhecimentoUx = "não informado";
+        cursoAndroidModuloBasico = false;
+        cursoAndroidModuloAvancado = false;
+        cursoUx = false;
+        cursos = "não informado";
     }
 
     private void persistirColaborador() {
